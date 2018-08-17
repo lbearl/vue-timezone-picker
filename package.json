@@ -1,6 +1,6 @@
 {
   "name": "vue-timezone-picker",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A graphical timezone picker for VueJS 2.",
   "author": "Luke Bearl <luke@bearl.me>",
   "private": false,
