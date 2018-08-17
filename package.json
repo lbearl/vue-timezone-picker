@@ -1,10 +1,11 @@
 {
   "name": "vue-timezone-picker",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A graphical timezone picker for VueJS 2.",
   "author": "Luke Bearl <luke@bearl.me>",
   "private": false,
   "license": "MIT",
+  "repository": "github:lbearl/vue-timezone-picker",
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --config build/webpack.dev.conf.js",
     "start": "npm run dev",
