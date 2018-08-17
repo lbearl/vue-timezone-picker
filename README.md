@@ -2,6 +2,8 @@
 
 > A graphical timezone picker for VueJS 2.
 
+Thanks to Keval Bhatt for implementing the jQuery [timezone-picker](https://github.com/kevalbhatt/timezone-picker) plugin that this wraps. 
+
 ## Build Setup
 
 ``` bash
